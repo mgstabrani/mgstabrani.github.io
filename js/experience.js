@@ -1,7 +1,7 @@
 function showExperiencesDetail(){
     firstLine = document.createElement("hr");
     document.getElementById("experiences-detail").appendChild(firstLine);
-    for(let i = 0; i < experiences.length; i++) {
+    for(let i = experiences.length - 1; i > -1; i--) {
 
         // Create element for position
         const experiencesPosition = document.createElement("h3");
