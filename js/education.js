@@ -1,7 +1,7 @@
 function showEducationDetail(){
     firstLine = document.createElement("hr");
     document.getElementById("education-detail").appendChild(firstLine);
-    for(let i = 0; i < education.length; i++) {
+    for(let i = education.length - 1; i > -1; i--) {
 
         // Create element for institution
         const educationInstitution = document.createElement("h3");
