@@ -8,8 +8,9 @@ function showExperiencesDetail(){
         experiencesPosition.innerHTML = experiences[i].position;
 
         // Create element for company
-        const experiencesCompany = document.createElement("p");
+        const experiencesCompany = document.createElement("a");
         experiencesCompany.innerHTML = experiences[i].company;
+        experiencesCompany.href = experiences[i].linkedin;
 
         // Create element for location
         const experiencesLocation = document.createElement("p");
