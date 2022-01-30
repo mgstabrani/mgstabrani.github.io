@@ -1,4 +1,4 @@
-const DEV_MODE = true;
+const DEV_MODE = false;
 const body = document.body;
 
 if(! DEV_MODE) { 
