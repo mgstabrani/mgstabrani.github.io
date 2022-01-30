@@ -18,7 +18,7 @@ function showEducationDetail(){
         const educationMajor = document.createElement("h4");
         educationMajor.innerHTML = education[i].major;
 
-        //Create transition line
+        // Create transition line
         const transitionLine = document.createElement("hr");
 
         // Append element to html
