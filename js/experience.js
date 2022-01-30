@@ -28,15 +28,18 @@ function showExperiencesDetail(){
             experiencesDesc.appendChild(pointDesc);
         }
 
+        // Create transition line 
+        const transitionLine = document.createElement("hr");
+
+
         // Append element to html
         document.getElementById("experiences-detail").appendChild(experiencesPosition);
         document.getElementById("experiences-detail").appendChild(experiencesCompany);
         document.getElementById("experiences-detail").appendChild(experiencesLocation);
         document.getElementById("experiences-detail").appendChild(experiencesPeriod);
         document.getElementById("experiences-detail").appendChild(experiencesDesc);
+        document.getElementById("experiences-detail").appendChild(transitionLine)
     }
-    lastLine = document.createElement("hr");
-    document.getElementById("experiences-detail").appendChild(lastLine);
 }
 
 function hideExperiencesDetail(){

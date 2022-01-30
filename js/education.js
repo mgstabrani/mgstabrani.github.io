@@ -18,13 +18,15 @@ function showEducationDetail(){
         const educationMajor = document.createElement("h4");
         educationMajor.innerHTML = education[i].major;
 
+        //Create transition line
+        const transitionLine = document.createElement("hr");
+
         // Append element to html
         document.getElementById("education-detail").appendChild(educationInstitution);
         document.getElementById("education-detail").appendChild(educationPeriod);
         document.getElementById("education-detail").appendChild(educationMajor);
+        document.getElementById("education-detail").appendChild(transitionLine);
     }
-    lastLine = document.createElement("hr");
-    document.getElementById("education-detail").appendChild(lastLine);
 }
 
 function hideEducationDetail(){
