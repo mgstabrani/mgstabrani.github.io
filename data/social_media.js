@@ -24,4 +24,9 @@ const socialMedia = [
         url: 'https://youtube.com/channel/UCbWnNIz0i_ebDGHbhQhFqRQ',
         image: 'https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white',
     },
+    {
+        name: 'Node Package Manager',
+        url: 'https://www.npmjs.com/~mgstabrani',
+        image: 'https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'
+    }
 ];
