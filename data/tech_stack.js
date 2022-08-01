@@ -64,4 +64,13 @@ const techStack = [
         url: 'https://graphql.org/',
         image: 'https://github.com/get-icon/geticon/raw/master/icons/graphql.svg'
     },
+    {
+        name: 'Google Cloud Platform',
+        url: 'https://cloud.google.com/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/google-cloud-platform.svg'
+    },{
+        name: 'MongoDB',
+        url: 'https://www.mongodb.org/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg',
+    },
 ];
