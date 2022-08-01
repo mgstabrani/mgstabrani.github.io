@@ -58,5 +58,31 @@ const experiences = [
             'Participated in code review',
             'Migrated web service (nodeJS) to microservices (golang)', 'Created API documentation using stoplight, insomnia, and postman', 'Technologies used are nodeJS, golang, redis, elasticsearch, postgreSQL, cockroachDB, and graphQL.',
         ]
-    }
+    },
+    {
+        position: 'Cloud Computing Trainee',
+        company: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
+        period: 'Februari 2022 - July 2022',
+        location: 'Bandung, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/bangkit-academy/',
+        desc: [
+            'Got honored as Graduate with Distinction due to great achievements in cloud computing, soft skills, and English',
+            'Successfully completed 2 courses about Front-end and Back-end development from Dicoding and got 5 stars grade for the Back-end development course',
+            'Managed to complete courses and labs on Google Cloud Skill Boost from Qwiklabs and got more than 20 badges',
+            'Got 100% of full score about Associate Cloud Engineer from Coursera course',
+            'Actively participated in a capstone project and managed to be on the top 53 capstone teams among 3000+ cohorts and 400+ teams (top 10%)',
+            'Developed back-end application and handled the cloud environment using Google Cloud Platform for the capstone project',
+            'Collaborated with 5 other cohorts to develop a mobile application that could detect and translate images of sign language using machine learning'
+        ]
+    },
+    {
+        position: 'Software Engineer Intern',
+        company: 'Makmur',
+        period: 'May 2022 - present',
+        location: 'Jakarta, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/makmurapp',
+        desc: [
+
+        ],
+    },
 ]
