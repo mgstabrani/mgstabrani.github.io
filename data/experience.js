@@ -78,11 +78,16 @@ const experiences = [
     {
         position: 'Software Engineer Intern',
         company: 'Makmur',
-        period: 'May 2022 - present',
+        period: 'May 2022 - August 2022',
         location: 'Jakarta, Indonesia',
         linkedin: 'https://www.linkedin.com/company/makmurapp',
         desc: [
-
+            'Collaborated with 2 other engineers to develop and maintain microservices using NodeJS',
+            'Participated in manual testing to meet the standard requirement and test scenario from the development stage',
+            'Migrated API-driven architecture to event-driven architecture in sending push notifications and email notifications using AWS Simple Queue Service and AWS Simple Notification Service',
+            'Built analytics tool using REST API and event-driven technology for internal needs to track user growth, transactions, and asset under management',
+            'Created an internal library to convert HTML content into PDF files using TypeScript and the existing NPM package',
+            'Technologies used are NodeJS, TypeScript, MongoDB, Redis, AWS, git, and bitbucket.',
         ],
     },
 ]
