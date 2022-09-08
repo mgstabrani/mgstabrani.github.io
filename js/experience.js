@@ -11,6 +11,7 @@ function showExperiencesDetail(){
         const experiencesCompany = document.createElement("a");
         experiencesCompany.innerHTML = experiences[i].company;
         experiencesCompany.href = experiences[i].linkedin;
+        experiencesCompany.target = '_blank';
 
         // Create element for location
         const experiencesLocation = document.createElement("p");

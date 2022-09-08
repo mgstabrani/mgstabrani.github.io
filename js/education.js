@@ -9,6 +9,7 @@ function showEducationDetail(){
         educationInstitution.appendChild(educationInstitutionlink);
         educationInstitutionlink.innerHTML = education[i].institution;
         educationInstitutionlink.href = education[i].website;
+        educationInstitutionlink.target = '_blank';
 
         // Create element for period
         const educationPeriod = document.createElement("p");

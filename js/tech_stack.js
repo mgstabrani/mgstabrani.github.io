@@ -14,6 +14,7 @@ function showTechStackDetail(){
         const techStackLink = document.createElement("a");
         techStackLink.href = techStack[i].url;
         techStackLink.title = techStack[i].name;
+        techStackLink.target = '_blank'
 
         // Append element to html
         techStackLink.appendChild(techStackImage);
