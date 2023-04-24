@@ -63,4 +63,12 @@ const achievement = [
         description: '',
         link: 'https://drive.google.com/file/d/1E3PQhQkq9YsFqXRVS6XXoT2P0tID_sdb/view?usp=sharing',
     },
+    {
+        title: 'Best Participant of Machine Learning Developer Fresh Graduate Academy',
+        issuer: 'Digital Talent Scholarship by Kementerian Komunikasi dan Informatika RI',
+        issuerLink: 'https://www.linkedin.com/company/digital-talent-scholarship',
+        date: 'November 2022',
+        description: 'Got honored as Best Participant out of 1000+ participants',
+        link: ''
+    }
 ]

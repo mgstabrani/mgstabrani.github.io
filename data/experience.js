@@ -90,4 +90,32 @@ const experiences = [
             'Technologies used are NodeJS, TypeScript, MongoDB, Redis, AWS, git, and bitbucket.',
         ],
     },
+    {
+        position: 'Software Engineer Intern',
+        company: 'PT. Cakra Radha Mustika (Kalbe Group)',
+        period: 'September 2022 - December 2022',
+        location: 'Jakarta, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/pt-cakra-radha-mustika-kalbe-group',
+        desc: [
+            'Collaborated with other engineers and cross-functional team to develop and maintain web services',
+            'Created new features and improved existing code for finance website and company profile using JavaScript and Go',
+            'Technologies used are ExpressJS, Go Fiber, Sequelize, PostgreSQL, Postman, and Gitlab.'
+        ]
+    },
+    {
+        position: 'Software Engineer',
+        company: 'PT. Dans Multi Pro',
+        period: 'December 2022 - March 2023',
+        location: 'Jakarta, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/pt-dans-multi-pro',
+        desc: [
+            'Collaborated with other engineers and cross-functional team to develop and maintain web services',
+            'Improved existing API security by implementing Role Based Access',
+            'Implemented event-driven mechanism in uploading images to cloud storage (AWS S3) using AWS SQS and AWS Lambda',
+            'Monitored SQS events and Lambda function using AWS CloudWatch',
+            'Supported senior engineers in production deployment',
+            'Created schedulers for scheduled web notification and email using smtp protocol',
+            'Technologies used are HapiJS, MySQL, MongoDB, Amazon Web Service, Postman, Bitbucket, and Gitlab'
+        ]
+    }
 ]
