@@ -70,5 +70,21 @@ const achievement = [
         date: 'November 2022',
         description: 'Got honored as Best Participant out of 1000+ participants',
         link: ''
+    },
+    {
+        title: 'Top 3 Winner of Software Engineering in Pra-Gemastik ITB',
+        issuer: 'Institut Teknologi Bandung',
+        issuerLink: 'https://www.linkedin.com/school/itb/',
+        date: 'July 2023',
+        description: 'Got honored as top 3 winner and represented Institut Teknologi Bandung in national level',
+        link: ''
+    },
+    {
+        title: 'Top 10 Winner of Sayembara Road Damage Detection',
+        issuer: 'Kementerian Pekerjaan Umum dan Perumahan Rakyat RI',
+        issuerLink: 'https://www.linkedin.com/company/kementerian-pekerjaan-umum-dan-perumahan-rakyat-pupr/',
+        date: 'December 2023',
+        description: 'Got honored as the finalist and presented the project to the judges',
+        link: ''
     }
 ]

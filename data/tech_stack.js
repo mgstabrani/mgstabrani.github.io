@@ -15,6 +15,11 @@ const techStack = [
         image: 'https://github.com/get-icon/geticon/raw/master/icons/go.svg'
     },
     {
+        name: 'Java',
+        url: 'https://www.java.com/en/',
+        image: 'https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg'
+    },
+    {
         name: 'PHP',
         url: 'https://www.php.net/',
         image: 'https://github.com/get-icon/geticon/raw/master/icons/php.svg'
@@ -28,6 +33,11 @@ const techStack = [
         name: 'ExpressJS',
         url: 'https://expressjs.com/',
         image: 'https://github.com/get-icon/geticon/raw/master/icons/express.svg',
+    },
+    {
+        name: 'Spring Boot',
+        url: 'https://spring.io/projects/spring-boot/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/spring.svg'
     },
     {
         name: 'Laravel',
@@ -50,6 +60,16 @@ const techStack = [
         image: 'https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg',
     },
     {
+        name: 'Oracle',
+        url: 'https://www.oracle.com/id/database/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/oracle.svg',
+    },
+    {
+        name: 'MongoDB',
+        url: 'https://www.mongodb.org/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg',
+    },
+    {
         name: 'Redis',
         url: 'https://redis.io/',
         image: 'https://github.com/get-icon/geticon/raw/master/icons/redis.svg',
@@ -68,9 +88,10 @@ const techStack = [
         name: 'Google Cloud Platform',
         url: 'https://cloud.google.com/',
         image: 'https://github.com/get-icon/geticon/raw/master/icons/google-cloud-platform.svg'
-    },{
-        name: 'MongoDB',
-        url: 'https://www.mongodb.org/',
-        image: 'https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg',
     },
+    {
+        name: 'Amazon Web Service',
+        url: 'https://aws.amazon.com/',
+        image: 'https://github.com/get-icon/geticon/raw/master/icons/aws.svg'
+    }
 ];

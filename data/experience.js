@@ -62,7 +62,7 @@ const experiences = [
     {
         position: 'Cloud Computing Trainee',
         company: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
-        period: 'Februari 2022 - July 2022',
+        period: 'February 2022 - July 2022',
         location: 'Bandung, Indonesia',
         linkedin: 'https://www.linkedin.com/company/bangkit-academy/',
         desc: [
@@ -117,5 +117,44 @@ const experiences = [
             'Created schedulers for scheduled web notification and email using smtp protocol',
             'Technologies used are HapiJS, MySQL, MongoDB, Amazon Web Service, Postman, Bitbucket, and Gitlab'
         ]
-    }
+    },
+    {
+        position: 'Cloud Computing Mentor',
+        company: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
+        period: 'February 2023 - July 2023',
+        location: 'Bandung, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/bangkit-academy/',
+        desc: [
+            'Empowered and guided 24 cohorts of cloud computing enthusiasts throughout their transformative journey in Bangkit, fostering a nurturing environment for their growth and development',
+            'Demonstrated mentorship excellence by skillfully leading 20 weekly consultations, offering expert insights and personalized support, and empowering students to overcome challenges with confidence',
+            'Collaborated seamlessly with dedicated instructors and fellow mentors in 14 engaging ILT (Instructor Led Training) sessions both tech skills and soft skills, co-creating enriching learning experiences that encouraged knowledge-sharing and camaraderie',
+            'As a catalyst for success, shared invaluable tips and practical wisdom with cohorts during their capstone projects, with a special focus on deploying services in Google Cloud Platform, enabling them to thrive in real-world applications and make a significant impact in the field'
+        ]
+    },
+    {
+        position: 'Research Assistant',
+        company: 'Infrastructure Service Research Laboratory Telkom Indonesia',
+        period: 'January 2023 - January 2024',
+        location: 'Bandung, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/telekomunikasi-indonesia',
+        desc: [
+            'Collaborated with other engineers at Telkom Infrastructure Service Research Laboratory as a Research Assistant on various innovative projects',
+            'Developed the backend and frontend for 4 simultaneous projects, demonstrating strong multitasking abilities',
+            'Created essential tools including a comprehensive project management tool, a robust network monitoring system, efficient gateway management, and a streamlined document repository',
+            'Technologies used are Fastify, Alpine.js, MinIO, MongoDB, InfluxDB, Redis, Cloudflare, and StatusCake'
+        ]
+    },
+    {
+        position: 'Software Engineer',
+        company: 'PT. Dans Multi Pro',
+        period: 'November 2023 - Present',
+        location: 'Jakarta, Indonesia',
+        linkedin: 'https://www.linkedin.com/company/pt-dans-multi-pro',
+        desc: [
+            'Collaborated closely with fellow engineers to create and maintain internal tools as well as client projects',
+            'Devised and executed test automation scenarios for microservices, enhancing application test coverage significantly',
+            'Crafted tools aimed at boosting engineers\' efficiency in delivering and deploying microservices, seamlessly integrating with Bitbucket and SonarQube APIs',
+            'Technologies used are Java Spring Boot, Node.js, Cucumber, along with databases like MySQL, PostgreSQL, and Oracle'
+        ]
+    },
 ]
