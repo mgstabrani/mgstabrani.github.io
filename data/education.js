@@ -8,7 +8,7 @@ const education = [
     {
         institution: 'Institut Teknologi Bandung',
         major: 'Informatics',
-        period: 'August 2019 - present',
+        period: 'August 2019 - September 2023',
         website: 'https://www.itb.ac.id/',
     },
 ]
