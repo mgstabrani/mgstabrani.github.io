@@ -154,7 +154,7 @@ const experiences = [
   {
     position: "Software Engineer",
     company: "PT. Dans Multi Pro",
-    period: "November 2023 - Present",
+    period: "November 2023 - April 2024",
     location: "Jakarta, Indonesia",
     linkedin: "https://www.linkedin.com/company/pt-dans-multi-pro",
     desc: [
